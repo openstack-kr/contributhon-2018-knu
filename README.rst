@@ -12,6 +12,7 @@ Mentor & Assistant
 
 Students
 --------
+- Young Ha
 - Dong wook Kim
 - Gu Yeoung-Jun
 - Hyunjae Jo
