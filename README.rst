@@ -12,6 +12,7 @@ Mentor & Assistant
 
 Students
 --------
+- CheonYongtae
 - Choi Sung-Hoon
 - Yeo, Jueun
 - Dupyo Hong
