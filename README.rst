@@ -7,7 +7,7 @@ Participants
 
 Mentor & Assistant
 ------------------
-
+ 
 - Ian Y. Choi
 
 Students
@@ -20,6 +20,7 @@ Students
 - Hyeonjun KIM
 - Son Jong Young
 - (TBD)
+- jjoo39
 - Yu Bin Jung
 - kimsanggoo
 - Yunha Cho
