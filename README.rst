@@ -7,10 +7,11 @@ Participants
 
 Mentor & Assistant
 ------------------
-
+ 
 - Ian Y. Choi
 
 Students
 --------
 
 - (TBD)
+- jjoo39
