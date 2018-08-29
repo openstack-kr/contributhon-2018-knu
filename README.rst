@@ -15,6 +15,8 @@ Mentor & Assistant
 
 Students
 --------
+
+- Kyu Min Hwang
 - Suhyeon Kim
 - Young Ha
 - Dong wook Kim
