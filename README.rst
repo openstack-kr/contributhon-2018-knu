@@ -11,6 +11,8 @@ Mentor & Assistant
 - Ian Y. Choi
 
 Students
+
+- Suhyeon Kim
 --------
 
 - (TBD)
