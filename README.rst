@@ -23,6 +23,7 @@ Students
 - Hyeonjun KIM
 - Son Jong Young
 - (TBD)
+- songminju
 - Seungwoo Lee
 - CHEOLHUN HEO.
 - JaeIn Yoo
