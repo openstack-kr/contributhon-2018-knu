@@ -13,4 +13,4 @@ Mentor & Assistant
 Students
 --------
 
-- (TBD)
+- Kyu Min. Hwang
