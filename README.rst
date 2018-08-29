@@ -13,4 +13,6 @@ Mentor & Assistant
 Students
 --------
 
+- Choi Sung-Hoon
+
 - (TBD)
