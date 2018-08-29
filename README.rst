@@ -9,15 +9,15 @@ Mentor & Assistant
 ------------------
 
 - Ian Y. Choi (mentor)
-=======
+============
  
 - Ian Y. Choi
+- CHEOLMIN KIM
+=======
   
   Students
-
+----------------
 - Su Hyeon Cho
---------
-
 - Kyu Min Hwang
 - Suhyeon Kim
 - Young Ha
