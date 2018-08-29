@@ -12,6 +12,7 @@ Mentor & Assistant
 
 Students
 --------
+- Hyunjae Jo
 - CheonYongtae
 - Choi Sung-Hoon
 - Yeo, Jueun
