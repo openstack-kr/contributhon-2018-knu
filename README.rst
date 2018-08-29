@@ -25,6 +25,7 @@ Students
 - Hyeonjun KIM
 - Son Jong Young
 - (TBD)
+- TaeWon Kim
 - Ji Hyun Park
 - Donghoon Song
 - songminju
