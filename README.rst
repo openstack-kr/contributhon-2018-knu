@@ -14,3 +14,4 @@ Students
 --------
 
 - (TBD)
+- KIM MIN SEOK
