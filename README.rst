@@ -12,6 +12,12 @@ Mentor & Assistant
 
 Students
 --------
-
+- Choi Sung-Hoon
+- Yeo, Jueun
+- Dupyo Hong
+- Hyeonjun KIM
+- Son Jong Young
 - (TBD)
 - jjoo39
+- Yunha Cho
+- JieonLee
