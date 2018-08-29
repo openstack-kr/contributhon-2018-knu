@@ -13,6 +13,9 @@ Mentor & Assistant
 Students
 --------
 - Hyunjae Jo
+- CheonYongtae
+- Choi Sung-Hoon
+- Yeo, Jueun
 - Dupyo Hong
 - Hyeonjun KIM
 - Son Jong Young
