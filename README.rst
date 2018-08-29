@@ -9,7 +9,6 @@ Mentor & Assistant
 ------------------
 
 - Ian Y. Choi
-- CHEOLMIN KIM
 
 Students
 --------
