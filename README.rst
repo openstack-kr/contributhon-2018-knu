@@ -7,15 +7,32 @@ Participants
 
 Mentor & Assistant
 ------------------
-
+ 
 - Ian Y. Choi
 
 Students
 --------
+
 - Kyu Min Hwang
+- Young Ha
+- Dong wook Kim
+- Gu Yeoung-Jun
+- Hyunjae Jo
+- CheonYongtae
+- Choi Sung-Hoon
+- Yeo, Jueun
 - Dupyo Hong
-Hyeonjun KIM
-Son Jong Young
+- Hyeonjun KIM
+- Son Jong Young
 - (TBD)
+- JaeIn Yoo
+- YEONJE CHOI
+- Jeonghun Shin
+- KIM MIN SEOK
+- yunseowon
+- JangheeLee
+- jjoo39
+- Yu Bin Jung
+- kimsanggoo
 - Yunha Cho
 - JieonLee
