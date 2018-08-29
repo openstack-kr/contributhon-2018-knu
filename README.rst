@@ -12,6 +12,8 @@ Mentor & Assistant
 
 Students
 --------
-
+Hyeonjun KIM
+Son Jong Young
 - (TBD)
 - Yunha Cho
+- JieonLee
