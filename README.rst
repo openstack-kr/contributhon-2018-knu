@@ -12,5 +12,8 @@ Mentor & Assistant
 
 Students
 --------
-
-- Kyu Min. Hwang
+- Kyu Min Hwang
+Hyeonjun KIM
+Son Jong Young
+- (TBD)
+- JieonLee
