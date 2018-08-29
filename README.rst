@@ -7,13 +7,15 @@ Participants
 
 Mentor & Assistant
 ------------------
+
+- Ian Y. Choi (mentor)
+=======
  
 - Ian Y. Choi
 
 Students
-
-- Suhyeon Kim
 --------
+- Suhyeon Kim
 - Young Ha
 - Dong wook Kim
 - Gu Yeoung-Jun
