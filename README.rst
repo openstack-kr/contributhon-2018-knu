@@ -13,6 +13,8 @@ Mentor & Assistant
 Students
 --------
 - CheonYongtae
+- Choi Sung-Hoon
+- Yeo, Jueun
 - Dupyo Hong
 - Hyeonjun KIM
 - Son Jong Young
