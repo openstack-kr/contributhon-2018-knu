@@ -31,6 +31,7 @@ Mentor & Assistant
 - Hyeonjun KIM
 - Son Jong Young
 - (TBD)
+- sijune
 - minkuk jo
 - TaeWon Kim
 - Ji Hyun Park
