@@ -14,4 +14,4 @@ Students
 --------
 
 - (TBD)
-- CHEOLHUN HEO
+- CHEOLHUN HEO.
