@@ -20,6 +20,7 @@ Students
 - Hyeonjun KIM
 - Son Jong Young
 - (TBD)
+- Yu Bin Jung
 - kimsanggoo
 - Yunha Cho
 - JieonLee
