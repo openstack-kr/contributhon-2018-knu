@@ -13,7 +13,9 @@ Mentor & Assistant
 Students
 --------
 - Kyu Min Hwang
+- Dupyo Hong
 Hyeonjun KIM
 Son Jong Young
 - (TBD)
+- Yunha Cho
 - JieonLee
