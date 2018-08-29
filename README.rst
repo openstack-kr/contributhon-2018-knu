@@ -1,4 +1,4 @@
-=======================
+wq=======================
 Open S/W Exploring Camp
 =======================
 
@@ -12,6 +12,7 @@ Mentor & Assistant
 
 Students
 --------
+- Gu Yeoung-Jun
 - Hyunjae Jo
 - CheonYongtae
 - Choi Sung-Hoon
