@@ -12,6 +12,7 @@ Mentor & Assistant
 
 Students
 --------
+- Choi Sung-Hoon
 - Yeo, Jueun
 - Dupyo Hong
 - Hyeonjun KIM
