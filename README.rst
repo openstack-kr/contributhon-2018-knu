@@ -1,4 +1,4 @@
-=======================
+======================
 Open S/W Exploring Camp
 =======================
 
@@ -12,8 +12,10 @@ Mentor & Assistant
 =======
  
 - Ian Y. Choi
+  
+  Students
 
-Students
+- Su Hyeon Cho
 --------
 
 - Kyu Min Hwang
