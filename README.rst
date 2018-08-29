@@ -12,6 +12,8 @@ Mentor & Assistant
 
 Students
 --------
+
+- Dupyo Hong
 Hyeonjun KIM
 Son Jong Young
 - (TBD)
