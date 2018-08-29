@@ -13,4 +13,5 @@ Mentor & Assistant
 Students
 --------
 
+- Dong wook Kim
 - (TBD)
