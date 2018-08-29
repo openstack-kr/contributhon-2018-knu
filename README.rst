@@ -12,5 +12,10 @@ Mentor & Assistant
 
 Students
 --------
-
 - Yeo, Jueun
+- Dupyo Hong
+- Hyeonjun KIM
+- Son Jong Young
+- (TBD)
+- Yunha Cho
+- JieonLee
