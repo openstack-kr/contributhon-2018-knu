@@ -12,6 +12,7 @@ Mentor & Assistant
 
 Students
 --------
+- Dong wook Kim
 - Gu Yeoung-Jun
 - Hyunjae Jo
 - CheonYongtae
