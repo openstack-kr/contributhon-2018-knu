@@ -8,7 +8,7 @@ Participants
 Mentor & Assistant
 ------------------
 
-- Ian Y. Choi
+- Ian Y. Choi (mentor)
 
 Students
 --------
