@@ -23,7 +23,8 @@ Students
 - Hyeonjun KIM
 - Son Jong Young
 - (TBD)
-  Jeonghun Shin
+- YEONJE CHOI
+- Jeonghun Shin
 - KIM MIN SEOK
 - yunseowon
 - JangheeLee
