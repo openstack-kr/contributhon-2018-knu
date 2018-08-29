@@ -1,4 +1,4 @@
-wq=======================
+=======================
 Open S/W Exploring Camp
 =======================
 
@@ -21,6 +21,7 @@ Students
 - Hyeonjun KIM
 - Son Jong Young
 - (TBD)
+- JangheeLee
 - jjoo39
 - Yu Bin Jung
 - kimsanggoo
