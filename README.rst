@@ -14,3 +14,4 @@ Students
 --------
 
 - (TBD)
+- Ji Hyun Park
