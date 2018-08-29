@@ -12,6 +12,8 @@ Mentor & Assistant
 
 Students
 --------
+- Hyunjae Jo
+- CheonYongtae
 - Choi Sung-Hoon
 - Yeo, Jueun
 - Dupyo Hong
@@ -19,5 +21,6 @@ Students
 - Son Jong Young
 - (TBD)
 - Yu Bin Jung
+- kimsanggoo
 - Yunha Cho
 - JieonLee
