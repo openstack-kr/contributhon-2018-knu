@@ -9,9 +9,10 @@ Mentor & Assistant
 ------------------
 
 - Ian Y. Choi
-- Su Hyeon Cho
   
   Students
+
+- Su Hyeon Cho
 --------
 
 - (TBD)
