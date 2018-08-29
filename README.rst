@@ -12,6 +12,7 @@ Mentor & Assistant
 
 Students
 --------
-
+Son Jong Young
 - (TBD)
 - kimsanggoo
+- JieonLee
