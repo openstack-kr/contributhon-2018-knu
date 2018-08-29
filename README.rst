@@ -13,4 +13,6 @@ Mentor & Assistant
 Students
 --------
 
+- Hyunjae Jo
+
 - (TBD)
