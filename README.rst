@@ -12,21 +12,9 @@ Mentor & Assistant
 
 Students
 --------
-- Young Ha
-- Dong wook Kim
-- Gu Yeoung-Jun
-- Hyunjae Jo
-- CheonYongtae
-- Choi Sung-Hoon
-- Yeo, Jueun
-- Dupyo Hong
-- Hyeonjun KIM
-- Son Jong Young
-- (TBD)
-- yunseowon
-- JangheeLee
-- jjoo39
-- Yu Bin Jung
-- kimsanggoo
-- Yunha Cho
-- JieonLee
+Team 5
+
+- 김현준 (khj552211@hanmail.net, JamesKim123, 4)
+- 이장희 (ljhk1235@naver.com,JangheeLee,3)
+- 하영 (zwei2@naver.com, zwei2, 3)
+- 조현재 Hyunjae Jo(21600695@handong.edu ,dst02030, 3)
