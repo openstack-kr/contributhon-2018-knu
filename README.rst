@@ -11,8 +11,9 @@ Mentor & Assistant
 * Ian Y. Choi (mentor)
 * CHEOLMIN KIM
 
-Team 1
--------
+Team1
+-----
+
 * Cheolhun Heo
 * Jeonghun Shin
 * Jieon Lee
@@ -25,6 +26,14 @@ Team2
 * Kim Dong Uk
 * Yun Seo Won
 * Song Min Ju
+
+Team 5
+--------
+
+* 김현준
+* 이장희
+* 하영 
+* 조현재
 
 Team 3
 ------
@@ -41,30 +50,3 @@ Team 7
 * Minseok Kim
 * Seungwoo Lee
 * Taewon Kim
-
-* Su Hyeon Cho
-* Kyu Min Hwang
-* Suhyeon Kim
-* Young Ha
-* Dong wook Kim
-* Hyunjae Jo
-* Yeo, Jueun
-* Dupyo Hong
-* Hyeonjun KIM
-* (TBD)
-* sijune
-* minkuk jo
-* TaeWon Kim
-* Ji Hyun Park
-* Donghoon Song
-* songminju
-* Seungwoo Lee
-* CHEOLHUN HEO.
-* JaeIn Yoo
-* YEONJE CHOI
-* KIM MIN SEOK
-* yunseowon
-* JangheeLee
-* jjoo39
-* kimsanggoo
-* JieonLee
