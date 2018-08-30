@@ -18,3 +18,11 @@ Team1
 * Jeonghun Shin
 * Jieon Lee
 * Yunha Cho
+
+Team2
+--------
+
+* Gu Yeong Jun
+* Kim Dong Uk
+* Yun Seo Won
+* Song Min Ju
