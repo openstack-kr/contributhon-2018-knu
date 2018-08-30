@@ -11,9 +11,6 @@ Mentor & Assistant
 * Ian Y. Choi (mentor)
 * CHEOLMIN KIM
 
-Students
---------
-
 Team1
 -----
 
@@ -46,3 +43,10 @@ Team 3
 * Son Jong Young
 * CheonYongtae
 
+Team 7
+------
+
+* Suhyeon Cho
+* Minseok Kim
+* Seungwoo Lee
+* Taewon Kim
