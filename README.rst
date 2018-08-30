@@ -48,11 +48,10 @@ Students
 * Yunha Cho
 * JieonLee
 
-Team 1
+Team 7
 ------
 
 * Suhyeon Cho
 * Minseok Kim
 * Seungwoo Lee
 * Taewon Kim
-
