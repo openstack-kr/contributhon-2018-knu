@@ -55,3 +55,9 @@ Team4
 * Hwang Kyu Min
 * Hong Du Pyo
 
+Team6
+-----
+
+* 유재인
+* 주지훈
+
