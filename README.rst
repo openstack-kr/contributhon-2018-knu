@@ -29,21 +29,26 @@ Students
 * Son Jong Young
 * (TBD)
 * sijune
-* minkuk jo
 * TaeWon Kim
 * Ji Hyun Park
-* Donghoon Song
 * songminju
 * Seungwoo Lee
 * CHEOLHUN HEO.
 * JaeIn Yoo
-* YEONJE CHOI
+* kimsanggoo
+* Sanggoo Kim
 * Jeonghun Shin
 * KIM MIN SEOK
 * yunseowon
 * JangheeLee
 * jjoo39
 * Yu Bin Jung
-* kimsanggoo
 * Yunha Cho
 * JieonLee
+
+Team 8
+------
+* MinKuk Jo
+* Donghoon Song
+* YEONJE CHOI
+* Sanggoo Kim
