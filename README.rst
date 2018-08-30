@@ -6,16 +6,17 @@ Participants
 ============
 
 Mentor & Assistant
---------
+------------------
 
 * Ian Y. Choi (mentor)
 * CHEOLMIN KIM
+
 
 Students
 --------
 
 Team 1
------
+------
 
 * Cheolhun Heo
 * Jeonghun Shin
@@ -23,7 +24,7 @@ Team 1
 * Yunha Cho
 
 Team 2
------
+------
 
 * Gu Yeong Jun
 * Kim Dong Uk
@@ -31,7 +32,7 @@ Team 2
 * Song Min Ju
 
 Team 3
------
+------
 
 * Choi Sung-Hoon
 * Yu Bin Jung
@@ -39,7 +40,7 @@ Team 3
 * CheonYongtae
 
 Team 4
------
+------
 
 * Kim Su Hyeon
 * Park Ji Hyun
@@ -47,7 +48,7 @@ Team 4
 * Hong Du Pyo
 
 Team 5
------
+------
 
 * 김현준
 * 이장희
@@ -55,13 +56,13 @@ Team 5
 * 조현재
 
 Team 6
------
+------
 
 * 유재인
 * 주지훈
 
 Team 7
------
+------
 
 * 조수현
 * 김민석
@@ -69,7 +70,7 @@ Team 7
 * 김태원
 
 Team 8
------
+------
 * MinKuk Jo
 * Donghoon Song
 * YEONJE CHOI
