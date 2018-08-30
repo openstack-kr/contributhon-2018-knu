@@ -1,4 +1,4 @@
-======================
+=======================
 Open S/W Exploring Camp
 =======================
 
@@ -11,8 +11,6 @@ Mentor & Assistant
 - Ian Y. Choi
   
   Students
-
-- Su Hyeon Cho
 --------
 
 - (TBD)
