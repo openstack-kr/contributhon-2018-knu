@@ -36,3 +36,12 @@ Students
 - kimsanggoo
 - Yunha Cho
 - JieonLee
+
+Team 1
+------
+
+* Suhyeon Cho
+* Minseok Kim
+* Seungwoo Lee
+* Taewon Kim
+
