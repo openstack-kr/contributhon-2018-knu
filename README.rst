@@ -7,9 +7,10 @@ Participants
 
 Mentor & Assistant
 ------------------
- 
-- Ian Y. Choi
 
+* Ian Y. Choi (mentor)
+* CHEOLMIN KIM
+  
 Students
 --------
 Team 5
