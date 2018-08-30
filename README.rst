@@ -30,6 +30,7 @@ Team2
 * Yun Seo Won
 * Song Min Ju
 
+
 Team 5
 --------
 
@@ -45,4 +46,12 @@ Team 3
 * Yu Bin Jung
 * Son Jong Young
 * CheonYongtae
+
+Team4
+-------
+
+* Kim Su Hyeon
+* Park Ji Hyun
+* Hwang Kyu Min
+* Hong Du Pyo
 
