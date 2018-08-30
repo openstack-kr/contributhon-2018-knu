@@ -35,8 +35,6 @@ Students
 * Seungwoo Lee
 * CHEOLHUN HEO.
 * JaeIn Yoo
-* kimsanggoo
-* Sanggoo Kim
 * Jeonghun Shin
 * KIM MIN SEOK
 * yunseowon
