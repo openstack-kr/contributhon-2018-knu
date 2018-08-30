@@ -30,7 +30,6 @@ Team2
 * Yun Seo Won
 * Song Min Ju
 
-
 Team 5
 --------
 
@@ -38,3 +37,12 @@ Team 5
 * 이장희
 * 하영 
 * 조현재
+
+Team 3
+------
+
+* Choi Sung-Hoon
+* Yu Bin Jung
+* Son Jong Young
+* CheonYongtae
+
