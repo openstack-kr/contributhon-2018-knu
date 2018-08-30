@@ -51,4 +51,4 @@ Team 8
 * YEONJE CHOI
 * Sanggoo Kim
 
-.. image: https://user-images.githubusercontent.com/24365594/44824962-32cecc80-ac43-11e8-946e-b254cfb89a4b.jpeg
+.. image:: attr.jpeg
