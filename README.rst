@@ -47,6 +47,13 @@ Team 3
 * Son Jong Young
 * CheonYongtae
 
+Team 8
+------
+* MinKuk Jo
+* Donghoon Song
+* YEONJE CHOI
+* Sanggoo Kim
+
 Team4
 -------
 
