@@ -30,6 +30,7 @@ Team2
 * Yun Seo Won
 * Song Min Ju
 
+
 Team 5
 --------
 
@@ -53,3 +54,24 @@ Team 8
 * YEONJE CHOI
 * Sanggoo Kim
 
+Team4
+-------
+
+* Kim Su Hyeon
+* Park Ji Hyun
+* Hwang Kyu Min
+* Hong Du Pyo
+
+Team6
+-----
+
+* 유재인
+* 주지훈
+
+Team7
+-----
+
+* 조수현
+* 김민석
+* 이승우
+* 김태원
