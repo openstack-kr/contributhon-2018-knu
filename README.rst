@@ -11,30 +11,25 @@ Mentor & Assistant
 * Ian Y. Choi (mentor)
 * CHEOLMIN KIM
 
-Team1
------
+
+Students
+--------
+
+Team 1
+------
 
 * Cheolhun Heo
 * Jeonghun Shin
 * Jieon Lee
 * Yunha Cho
 
-Team2
---------
+Team 2
+------
 
 * Gu Yeong Jun
 * Kim Dong Uk
 * Yun Seo Won
 * Song Min Ju
-
-
-Team 5
---------
-
-* 김현준
-* 이장희
-* 하영 
-* 조현재
 
 Team 3
 ------
@@ -44,24 +39,39 @@ Team 3
 * Son Jong Young
 * CheonYongtae
 
-Team4
--------
+Team 4
+------
 
 * Kim Su Hyeon
 * Park Ji Hyun
 * Hwang Kyu Min
 * Hong Du Pyo
 
-Team6
------
+Team 5
+------
+
+* 김현준
+* 이장희
+* 하영 
+* 조현재
+
+Team 6
+------
 
 * 유재인
 * 주지훈
 
-Team7
------
+Team 7
+------
 
 * 조수현
 * 김민석
 * 이승우
 * 김태원
+
+Team 8
+------
+* MinKuk Jo
+* Donghoon Song
+* YEONJE CHOI
+* Sanggoo Kim
