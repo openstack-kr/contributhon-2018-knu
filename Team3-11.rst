@@ -99,16 +99,16 @@ Section 1.2 제목
 ========
 
 이미지를 가져올 때는 다음과 같이 사용합니다 (샘플 이미지: OpenStack 번역팀)
-(.. image:: http://governance.openstack.org/badges/i18n.svg)
 .. image:: http://governance.openstack.org/badges/i18n.svg
+( --> ..image:: Image source link )
 
 이미지 크기 등을 지정할 수도 있습니다.
-(.. image:: http://governance.openstack.org/badges/i18n.svg
-	 :width: 300
-	 :heith: 100
-	 :target: http://governance.openstack.org/reference/tags/index.html
-)
 .. image:: http://governance.openstack.org/badges/i18n.svg
 	:width: 300
 	:height: 100
 	:target: http://governance.openstack.org/reference/tags/index.html
+( --> ..image:: Image source link
+	     :width: Value
+	     :height: Value
+	     :target: Image source link
+)
