@@ -25,6 +25,6 @@ Fork 해보기
 
 .. image:: https://raw.githubusercontent.com/Choi-Sung-Hoon/contributhon-2018-knu/master/resources/team3-3.3.PNG
 
-2. 아래와 같이 repository가 변경된 것을 확인합니다.
+2. 아래와 같이 repository가 변경된 것을 확인할 수 있습니다.
 
 .. image:: https://raw.githubusercontent.com/Choi-Sung-Hoon/contributhon-2018-knu/master/resources/team3-3.4.PNG
